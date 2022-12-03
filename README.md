@@ -1,6 +1,7 @@
 ### KONULAR
 ---
 + [Yazılım](https://github.com/cllsrm/cllsrm/blob/main/yaz%C4%B1l%C4%B1m.md)
+  + [Git](https://github.com/cllsrm/notes/blob/main/git.md)
   + [Php](https://github.com/cllsrm/notes/blob/main/php.md)
 
 __Blog Hazırlama__
