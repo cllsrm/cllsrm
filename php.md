@@ -4,4 +4,4 @@
 
   __Laravel__
   ---
-  + [Laravel Service Container and Service Providers Explained](https://farhan.dev/tutorial/laravel-service-container-and-service-providers-explained/) - Laravel service container ve service providers mantığını örneklerle açıklayan güzel bir makale.
+  + [Repository Pattern](https://github.com/cllsrm/notes/blob/main/dosyalar/laravel/laravel_repository_pattern.pdf) - Laravel 9, service container ve service providers kullanılarak repository pattern kullanımı örneği.
