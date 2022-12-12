@@ -1,8 +1,8 @@
 ### KONULAR
 ---
-+ [Yazılım](https://github.com/cllsrm/cllsrm/blob/main/yaz%C4%B1l%C4%B1m.md)
-  + [Git](https://github.com/cllsrm/notes/blob/main/git.md)
-  + [Php](https://github.com/cllsrm/notes/blob/main/php.md)
++ [Yazılım](https://github.com/cllsrm/notes/blob/main/mds/yaz%C4%B1l%C4%B1m.md)
+  + [Git](https://github.com/cllsrm/notes/blob/main/mds/git.md)
+  + [Php](https://github.com/cllsrm/notes/blob/main/mds/php.md)
 
 __Blog Hazırlama__
 + [Github Pages Blog Yapımı](https://e-bergi.com/y/gh-blog/) - Jekyll ile github pages üzerinde markdown kullanarak blog sayfası hazırlamaya örnek bir repo.
