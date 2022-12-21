@@ -5,5 +5,5 @@
   + [Php](https://github.com/cllsrm/notes/blob/main/mds/php.md)
 
 __Blog Hazırlama__
-+ [Github Pages Blog Yapımı](https://e-bergi.com/y/gh-blog/) - Jekyll ile github pages üzerinde markdown kullanarak blog sayfası hazırlamaya örnek bir repo.
++ [Github Pages Blog Yapımı](https://github.com/mehmetakifakkus/blogTemplate) - Jekyll ile github pages üzerinde markdown kullanarak blog sayfası hazırlamaya örnek bir repo.
 + [Markdown Demo](https://markdown-it.github.io/)
