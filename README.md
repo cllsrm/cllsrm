@@ -2,6 +2,7 @@
 ---
 + [Hack](https://github.com/cllsrm/notes/blob/main/mds/hack.md)
 + [İngilizce](https://github.com/cllsrm/notes/blob/main/mds/ingilizce.md)
++ [Linux](https://github.com/cllsrm/notes/blob/main/mds/linux.md)
 + [Yazılım](https://github.com/cllsrm/notes/blob/main/mds/yaz%C4%B1l%C4%B1m.md)
   + [DevOps](https://github.com/cllsrm/notes/blob/main/mds/devops.md)
   + [Docker](https://github.com/cllsrm/notes/blob/main/mds/docker.md)
