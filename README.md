@@ -4,6 +4,7 @@
   + [DevOps](https://github.com/cllsrm/notes/blob/main/mds/devops.md)
   + [Docker](https://github.com/cllsrm/notes/blob/main/mds/docker.md)
   + [Git](https://github.com/cllsrm/notes/blob/main/mds/git.md)
+  + [Hack](https://github.com/cllsrm/notes/blob/main/mds/hack.md)
   + [Php](https://github.com/cllsrm/notes/blob/main/mds/php.md)
 
 __Blog Hazırlama__
