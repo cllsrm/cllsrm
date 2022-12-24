@@ -5,6 +5,7 @@
   + [Docker](https://github.com/cllsrm/notes/blob/main/mds/docker.md)
   + [Git](https://github.com/cllsrm/notes/blob/main/mds/git.md)
   + [Hack](https://github.com/cllsrm/notes/blob/main/mds/hack.md)
+  + [İngilizce](https://github.com/cllsrm/notes/blob/main/mds/ingilizce.md)
   + [Php](https://github.com/cllsrm/notes/blob/main/mds/php.md)
 
 __Blog Hazırlama__
