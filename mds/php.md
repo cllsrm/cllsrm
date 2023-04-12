@@ -1,6 +1,7 @@
 ### PHP
 ---
 + [phpdotenv](https://github.com/vlucas/phpdotenv)
++ [php.watch](https://php.watch)
 
   __Laravel__
   ---
