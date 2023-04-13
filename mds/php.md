@@ -1,8 +1,8 @@
 ### PHP
 ---
 + [phpdotenv](https://github.com/vlucas/phpdotenv)
-+ [php.watch](https://php.watch)
-+ [phpdocker.io](https://phpdocker.io) - Docker konteynerleriyle oluşturulmuş bir PHP geliştirme ortamı oluşturucusudur.
++ [php.watch](https://php.watch) - PHP Makaleleri, haberler, yaklaşan değişiklikler, RFC'ler ve daha fazlası
++ [phpdocker.io](https://phpdocker.io) - Docker konteynerleriyle oluşturulmuş bir PHP geliştirme ortamı oluşturucusudur
 
   __Laravel__
   ---
